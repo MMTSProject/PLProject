@@ -1,2 +1,3 @@
 # PLProject
-it is a quiz game 
+ouur project is a quiz game 
+the scores of the players are saved in a file.
